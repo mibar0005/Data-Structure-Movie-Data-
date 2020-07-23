@@ -1,0 +1,14 @@
+Create a structure named MovieData
+In this structue store the title, director,
+year released and running time (in minutes)
+
+Functions:
+showMovieData() this function accepts a MovieData as
+a parameter and displays the information 
+Create two MovieData Variables
+Store values in memembers of the first MovieData var
+Store values in members of the second MovieData var
+pass the first MovieData var to the showMovie Data function
+to display its information.
+Pass the second MovieData Variable to the showMovieData
+function and display its information

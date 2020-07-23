@@ -1,0 +1,13 @@
+The purpose of this program is to create a simple
+data structure that has the following 
+information about the movies
+Title
+Director 
+Year Released 
+Running Time (in minutes)
+
+This program creates two MovieData Variables,
+store values in their memembers, and pass 
+each one to a function that displays the 
+information about the movie in a clear
+formatted way.
